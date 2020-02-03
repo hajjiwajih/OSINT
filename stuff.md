@@ -19,3 +19,10 @@ https://www.horangi.com/blog/decoding-open-source-intelligence-part-1-the-big-pi
 
 other 
 http://www.fagao.me/p/47338.htm 
+
+
+Find phpinfo leaks:
+
+ "script_filename" "HTTP Headers Information" "allow_url_fopen" ext:php  
+ - specific indicators . update 
+ 
