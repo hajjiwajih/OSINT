@@ -14,5 +14,6 @@ https://www.radioid.net/database/search#!
 
 http://library.3see.com/items/2011/09/27/22409.html 
 
+https://www.horangi.com/blog/decoding-open-source-intelligence-part-1-the-big-picture/ 
 
 
