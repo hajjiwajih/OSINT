@@ -35,3 +35,7 @@ AWS
 Public code base shows file and resource names 
 
 ref https://anyeduke.gitbooks.io/the-road-of-pentesting/open-source-intelligence-gathering/open-source-intelligence-gathering-101.html 
+
+
+https://stackshare.io/ 
+
