@@ -45,3 +45,5 @@ https://www.guru99.com/what-is-dbms.html enum
 
 https://data.worldbank.org/
 
+https://www.osint-labs.org/search/ 
+
