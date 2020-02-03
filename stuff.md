@@ -24,5 +24,7 @@ http://www.fagao.me/p/47338.htm
 Find phpinfo leaks:
 
  "script_filename" "HTTP Headers Information" "allow_url_fopen" ext:php  
+ 
+ both inurl OR ext 
  - specific indicators . update 
  
