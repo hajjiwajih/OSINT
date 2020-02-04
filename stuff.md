@@ -58,6 +58,9 @@ export keys > category CN
 https://x.threatbook.cn/
 
 
-# chinese feeds to follow 
+# nice feeds to follow 
 https://bokehui.net/source/1678/ 
+
+https://www.iyouport.org/category/osint
+
 
