@@ -56,3 +56,8 @@ export keys > category CN
 
 
 https://x.threatbook.cn/
+
+
+# chinese feeds to follow 
+https://bokehui.net/source/1678/ 
+
