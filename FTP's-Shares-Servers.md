@@ -1,11 +1,4 @@
-# FTP indexers 
-
-# English 
-
-# Russian
-
-
-FTP搜索引擎 
+# FTP搜索引擎 / indexer
 
 https://www.dianbo.org/9238/stone/ftp.htm 
 
