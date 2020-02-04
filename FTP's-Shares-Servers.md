@@ -4,7 +4,12 @@
 
 # Russian
 
-# Chinese 
+
+FTP搜索引擎 
+
+https://www.dianbo.org/9238/stone/ftp.htm 
+
+
 http://www.searchftps.net/
 
 http://www.mmnt.ru/int/
