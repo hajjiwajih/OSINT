@@ -54,9 +54,11 @@ https://zh-cn.facebook.com/pg/Ksecureteam/posts/?ref=page_internal
 
 export keys > category CN 
 
-https://cn.indeed.com
+https://cn.indeed.com -SE
 
-https://x.threatbook.cn/
+https://scholar.chongbuluo.com/ -SE 
+
+https://x.threatbook.cn/ -VT altern
 
 
 # nice feeds to follow 
