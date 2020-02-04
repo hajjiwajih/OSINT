@@ -60,6 +60,8 @@ https://scholar.chongbuluo.com/ -SE
 
 https://x.threatbook.cn/ -VT altern
 
+dorks basic https://juejin.im/post/5e33d9916fb9a02fff07a7b3 
+
 
 # nice feeds to follow 
 https://bokehui.net/source/1678/ 
