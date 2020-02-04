@@ -1,4 +1,4 @@
-# FTP搜索引擎 / indexer
+# FTP搜索引擎 / index
 
 https://www.dianbo.org/9238/stone/ftp.htm 
 
