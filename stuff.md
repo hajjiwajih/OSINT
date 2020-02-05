@@ -8,7 +8,11 @@ https://search.gleif.org/#/search/
 
 https://www.radioid.net/database/search#! 
 
+https://github.com/entynetproject/geospy - upcoming project
 
+https://github.com/s1l3n7h0s7/sifter - to test recon 
+
+https://github.com/initstring/cloud_enum - cloud recon aws etc, check 
 
 some chinese articles on intelligence gathering / osint/ competetive / etc. 
 
