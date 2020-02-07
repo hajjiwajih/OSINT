@@ -1,17 +1,4 @@
 # TOC
-
-FTP Indexers
-
-Exposed servers (FTP/HTTP/GOPHER..)
-
-Public Databases (Leaks/Docs)
-
-Compromised Emails Search 
-
-Browser Extentions 
-
-
-
 Open source intelligence tools and resources.
 
 - [Addons and extensions](Addons.md)
@@ -33,4 +20,8 @@ Open source intelligence tools and resources.
 - [Username and Users](Username.md)
 - [Pastebin and alternatives](Pastebin.md)
 - [Telegram OSINT](People.md)
-- [Browser Extentions[(People.md)
+- [Browser Extentions](Pastebin.md)
+- [Compromised Emails Search](People.md)
+- [Public Databases (Leaks/Docs)](Pastebin.md)
+- [Exposed servers (FTP/HTTP/GOPHER..)](People.md)
+- [FTP Indexers](People.md)
