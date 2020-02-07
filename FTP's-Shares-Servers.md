@@ -1,6 +1,6 @@
 # FTP搜索引擎 / index
 
-| Name | URLs | 
+| Name | Source | 
 |:---:|:---:|
 | Filesearching | www.filesearching.com |
 | Freewareweb | http://www.freewareweb.com/ftpsearch.shtml |
