@@ -1,9 +1,4 @@
-# Disclaimer
-* Most of the focus is on targeted research (people/ organizations) 
-* collection of my favorites & my own stuff and techniques 
-* still in dev ;^)
-
-# OSINT Lists Compilations
+# TOC
 
 https://start.me/p/rxeRqr/aml-toolbox 
 
