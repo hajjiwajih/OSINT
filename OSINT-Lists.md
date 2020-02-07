@@ -51,3 +51,24 @@ https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9
 https://www.andreafortuna.org/2017/03/20/open-source-intelligence-tools-for-social-media-my-own-list/
 
 http://osint.uwstart.nl/
+
+
+
+# Russian 
+
+https://osint-voksanaev.livejournal.com/192579.html 
+
+http://uplink.motd.org/2017/04/osint-tools-and-service/
+
+https://tgraph.io/Camyj-detalnyj-manual-po-OSINT-v-runete-12-07-3
+
+http://hrazvedka.ru/otkryvaya-sunduki/otkryvaya-sunduki.html
+
+
+# Chinese 
+
+https://start.me/p/GE7JQb/osint-cn?locale=zh
+
+https://medium.com/@iyouport/osint-44c79fd18e1a 
+
+https://www.chainnews.com/articles/540595230204.htm 
