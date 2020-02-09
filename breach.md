@@ -19,23 +19,16 @@ commercial products/solutions not included - only free/ registration/captcha req
 
 
 # web 
-https://ghostproject.fr/ - put email - no full pwd - premium acc for full pwd without *** 
 
-https://leak-lookup.com 
-
-https://webresolver.nl/tools/leaked_database - full pwd but limited db sources 
-
-https://psbdmp.ws// - pastebin dump global search (many fp.. archived pages - remoevd links on most)
-
-https://my.vericlouds.com/ - provide email - pwd will be emailed to provided email 
-
-https://breachalarm.com/ - same as one above 
-
-https://ashley.cynic.al/ - ashly madison leak check 
-
-https://vigilante.pw/ - only db info - but updated
-
-- add new sources here - 
+| Name | Description | 
+|:---:|:---:|
+| -  | https://leak-lookup.com  |
+| no full pwd - premium acc for full pwd without *** | https://ghostproject.fr/ |
+| full pwd but limited db sources  | https://webresolver.nl/tools/leaked_database |
+| pastebin dump global search (many fp.. archived pages - remoevd links on most) | https://psbdmp.ws//|
+| provide email - pwd will be emailed to provided email   | https://my.vericlouds.com/|
+| same as one above | https://breachalarm.com/|
+| only db info - but updated | https://vigilante.pw/|
 
 
 # git 
