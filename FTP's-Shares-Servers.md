@@ -1,4 +1,4 @@
-# FTP搜索引擎 / index
+# FTP搜索引擎 / Web
 
 | Name | Source | 
 |:---:|:---:|
@@ -14,22 +14,19 @@
 | dianbo-CN | https://www.dianbo.org/9238/stone/ftp.htm |
 | meatbear-RU | http://www.metabear.ru/ |
 | filediva | http://www.filediva.com/ |
-| xuite-CN | 
-https://blog.xuite.net/mcpdai/log/4214585-%E8%91%97%E5%90%8D%E7%9A%84FTP%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%A4%A7%E5%85%A8%EF%BC%8C%E8%BD%89%E8%87%AA%EF%BC%9ASupFree2 |
-| lores | http://search.lores.eu/ftp.htm |
+| xuite-CN | https://bit.ly/2OGNuWl |
+| filesearching | http://www.filesearching.com/ |
+| archie | http://archie.icm.edu.pl/archie_eng.html |
+| openftp4 | https://github.com/turbo/openftp4 |
+| openftp4 | http://s.wenjian.net/  |
+| openftp4 | https://github.com/turbo/openftp4 |
 
+# FTP搜索引擎 / Shodan
 
-http://search.lores.eu/ftp.htm 
+| Name | Source | 
+|:---:|:---:|
+| Shdoan query | https://www.shodan.io/search?query=anonymous+ftp  |
 
-https://www.shodan.io/search?query=anonymous+ftp 
-
-https://github.com/turbo/openftp4
-
-http://s.wenjian.net/ 
-
-http://www.filesearching.com/
-
-http://archie.icm.edu.pl/archie_eng.html
 
 # Google Drive / Docs
 
