@@ -1,7 +1,7 @@
 | Name | URLs | 
 |:---:|:---:|
 | AllStocksLinks | http://www.allstocks.com/links |
-| LEI lookup | http://www.allstocks.com/links |
+| LEI lookup | https://search.gleif.org/#/search/ |
 | Battle of the Internet Giants | http://pennystocks.la/battle-of-internet-giants |
 | Better Business Bureau | http://www.bbb.org |
 | Bizeurope | http://www.bizeurope.com |
