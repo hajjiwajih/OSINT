@@ -137,6 +137,8 @@
 
 # Dropbox
 
+| Name | Description | 
+|:---:|:---:|
 | intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) | index dropbox |
 | site:dl.dropbox.com | index dropbox links |
 
