@@ -78,4 +78,7 @@ https://www.iyouport.org/category/osint
 
 test
 https://www.ntaskmanager.com/blog/free-dapulse-monday-alternatives/ 
+ 
+&& 
 
+https://www.workzone.com/blog/jira-alternatives/ 
