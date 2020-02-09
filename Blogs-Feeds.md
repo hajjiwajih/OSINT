@@ -22,3 +22,9 @@ https://www.osintcity.com/blog/
 
 https://ciberpatrulla.com/blog/
 
+# OSINT accs to follow <3
+https://twitter.com/Sector035 
+
+https://twitter.com/Ginsberg5150
+
+https://twitter.com/dutch_osintguy
