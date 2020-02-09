@@ -1,4 +1,4 @@
-# random stuff - not organized 
+# random stuff - not organized yet.
 
 http://www.posttrackings.com/ - worldwide post tracking 
 
