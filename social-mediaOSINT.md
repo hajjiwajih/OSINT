@@ -12,3 +12,6 @@ https://mtg-bi.com/content/facebook-graph-search-workaround
 to update 
 
 
+# Varify Linkedin by Email 
+
+https://www.linkedin.com/sales/gmail/profile/viewByEmail/target@domain.com
