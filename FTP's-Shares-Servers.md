@@ -21,25 +21,11 @@
 | openftp4 | http://s.wenjian.net/  |
 | openftp4 | https://github.com/turbo/openftp4 |
 
-# FTP搜索引擎 / Shodan
+# FTP / Shodan
 
 | Name | Source | 
 |:---:|:---:|
 | Shdoan query | https://www.shodan.io/search?query=anonymous+ftp  |
-
-
-# Google Drive / Docs
-
-intitle:- Google Docs ‘keyword’
-
-allinurl: drive.google.com/open?id=
-
-# Dropbox
-
-intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) 
-
-site:dl.dropbox.com
-
 
 # File Hosting 
 https://mega.nz/
