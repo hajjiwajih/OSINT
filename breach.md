@@ -32,47 +32,29 @@ commercial not included - only free/ registration/captcha required sources
 
 # git 
 
-my fave: WhatBreach 
-
-https://github.com/Ekultek/WhatBreach 
-
-Others 
-
-https://github.com/Acceis/leakScraper/wiki/leakScraper 
-
-https://github.com/imuledx/dataleaks
-
-https://github.com/davidtavarez/pwndb 
-
-https://github.com/secworld/Breach-Miner
-
-https://github.com/moisesbenzan/pwnedFinder
-
-https://github.com/fensiv/passwdlist 
+| Name | Description | 
+|:---:|:---:|
+| WhatBreach   | https://github.com/Ekultek/WhatBreach  | 
+| leakscraper   | https://github.com/Acceis/leakScraper/wiki/leakScraper | 
+| dataleaks   | https://github.com/imuledx/dataleaks | 
+| pwndb  | https://github.com/davidtavarez/pwndb | 
+| breach-miner   | https://github.com/secworld/Breach-Miner | 
+| pwned-finder  | https://github.com/moisesbenzan/pwnedFinder | 
+| pwd-list  | https://github.com/fensiv/passwdlist| 
 
 
 # haveIbeenPwnd + alternatives 
 
-https://haveibeenpwned.com/ 
+| Name | Description | 
+|:---:|:---:|
+| HIBP   | https://haveibeenpwned.com/  | 
+| pwds   | https://haveibeenpwned.com/Passwords  | 
+| hacked-email   | https://hacked-emails.com/  | 
+| leakedsrc   | https://leakedsource.ru/   | 
+| firefox   | https://monitor.firefox.com/  | 
+| -   | https://www.onlinehashcrack.com/tools-check-email-compromised-leaked.php   | 
+| dehashed   | https://dehashed.com/  | 
 
-https://haveibeenpwned.com/Passwords
-
-https://hacked-emails.com/ 
-
-https://leakedsource.ru/ 
-
-https://monitor.firefox.com/
-
-https://www.onlinehashcrack.com/tools-check-email-compromised-leaked.php 
-
-https://dehashed.com/ 
-
-# Leaked Databases (donwload/view) 
-
-https://databases.today/search.php 
-
-https://publicdbhost.dmca.gripe/random/
- 
 
 # google dorks 
 
