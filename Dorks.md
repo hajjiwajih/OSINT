@@ -1,4 +1,4 @@
-- Baidu
+# Baidu
 
 | Name | Description | 
 |:---:|:---:|
@@ -8,7 +8,7 @@
 | intitle:/ allintitle: | Find web pages having your keywords in a page title |
 | filetype: | Find possible file types in any index sites. |
 
-- Bing
+# Bing
 
 | Name | Description | 
 |:---:|:---:|
@@ -31,7 +31,7 @@
 | NOT or – | Excludes webpages that contain a term or phrase. |
 | OR or | | Finds webpages that contain either of the terms or phrases. |
 
-- Duckduckgo
+# Duckduckgo
 
 | Name | Description | 
 |:---:|:---:|
@@ -44,7 +44,7 @@
 | \ |	Takes you to the first search result for your query |
 | ! |	Searches for your keyword using another sites search engine |
 
-- Google
+# Google
 
 | Name | Description | 
 |:---:|:---:|
@@ -74,14 +74,14 @@
 | [#]...[#] | Search a range of numbers as a keyword |
 | "" | Restrict a search so that the keywords must appear consecutively in a phrase |
 
-- Shodan
+# Shodan
 
 | Name | URL | 
 |:---:|:---:|
 | All queries | https://beta.shodan.io/search/filters |
 | Queries | https://github.com/T43cr0wl3r/shodan-filters |
 
-- Yandex
+# Yandex
 
 | Name | Description | 
 |:---:|:---:|
@@ -93,7 +93,7 @@
 | lang: | Search by pages in the specified language: |
 | date: | Search by page restricted by the date they were last modified. |
 
-- Yahoo
+# Yahoo
 
 | Name | Description | 
 |:---:|:---:|
@@ -125,3 +125,18 @@
 | zip code | Include a list of zip codes which match the location keyword |
 | + | Insist that the search engine includes a given keyword in the search results |
 | - | Insist that the search engine omits pages which match a given keyword in the search results |
+
+
+# Google Drive / Docs
+
+| Name | Description | 
+|:---:|:---:|
+| intitle:- Google Docs ‘keyword’ | index public docs |
+| allinurl: drive.google.com/open?id= | index drive |
+
+
+# Dropbox
+
+| intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) | index dropbox |
+| site:dl.dropbox.com | index dropbox links |
+
