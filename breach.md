@@ -1,6 +1,5 @@
-# breach sources/db/leaks - ppl 
 
-commercial products/solutions not included - only free/ registration/captcha required ones. 
+commercial not included - only free/ registration/captcha required sources
 
 # telegram 
 
