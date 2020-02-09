@@ -142,3 +142,32 @@
 | intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) | index dropbox |
 | site:dl.dropbox.com | index dropbox links |
 
+# start.me 
+
+| Name | URLs | 
+|:---:|:---:|
+| start.me | site:*.start.me keyword | leak | sources | OSINT.. etc  |
+
+# Potential exposed leaked data / comapny exposed portals shares.etc (project management frameworks) 
+
+# Trello - index boards / public / users / files / info 
+| Name | URLs | 
+|:---:|:---:|
+| trello | site:trello.com inurl:/b/ intext:OSINT  |
+
+# Jira - comapny portals using jira with option to register and view internal data 
+
+| Name | URLs | 
+|:---:|:---:|
+| jira | site:jira.*.* intext:Sign up  |
+can be costumized for specific comapny name like jira.target.com or just subdomain enum 
+create acc >  view available data / files / users / etc. 
+
+# slack - find invite links / channels 
+
+| Name | URLs | 
+|:---:|:---:|
+| slack | link:https://*.slack.com/join/shared_invite/ |
+
+
+
