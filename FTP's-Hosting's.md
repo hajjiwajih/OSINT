@@ -28,53 +28,6 @@
 | Shdoan query | https://www.shodan.io/search?query=anonymous+ftp  |
 
 # File Hosting 
-https://mega.nz/
-
-https://www.mediafire.com/
-
-http://www.4shared.com/
-
-https://sourceforge.net
-
-http://www.sharedigger.com/
-
-http://www.searchshared.com/  - all checkboxs
-
-http://file-search.info/
-
-http://www.alluc.ee/
-
-http://filecatch.com/
-
-http://www.uvrx.com/
-
-http://www.gammafiles.com/
-
-http://ddlsearch.free.fr/
-
-
-# start.me 
-
-site:*.start.me keyword | leak | sources | OSINT.. etc 
-
-# Potential exposed leaked data / comapny exposed portals shares.etc (project management frameworks) 
-
-# Trello - index boards / public / users / files / info 
-site:trello.com inurl:/b/ intext:OSINT 
-
-# Jira - comapny portals using jira with option to register and view internal data 
-
-site:jira.*.* intext:Sign up 
-can be costumized for specific comapny name like jira.target.com or just subdomain enum 
-
-create acc >  view available data / files / users / etc. 
-
-# slack - find invite links / channels 
-
-link:https://*.slack.com/join/shared_invite/ 
-
-
-
 
 | Name | URLs | 
 |:---:|:---:|
@@ -109,4 +62,13 @@ link:https://*.slack.com/join/shared_invite/
 | Simple.Savr | https://www.ssavr.com |
 | TransferBigFiles | https://www.transferbigfiles.com |
 | WeTransfer | https://wetransfer.com |
+| sourceforge | https://sourceforge.net|
+| sharedigger | http://www.sharedigger.com/ |
+| searchshared | http://www.searchshared.com/ |
+| file-search | http://file-search.info/|
+| sharedigger | http://www.sharedigger.com/ |
+| filecatch | http://filecatch.com/ |
+| uvrx | http://www.uvrx.com/|
+| dlsearch | http://ddlsearch.free.fr/ |
+| gamma | http://www.gammafiles.com/ |
 
