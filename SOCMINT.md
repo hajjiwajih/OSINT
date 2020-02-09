@@ -17,6 +17,12 @@ to update
 
 https://www.linkedin.com/sales/gmail/profile/viewByEmail/target@domain.com
 
+>> linkedin query all users >json 
+
+基于领英的企业用户名收集
+
+https://github.com/ReboOt68/OSINT_Spider.py 
+
 
 # GitHub 
 
