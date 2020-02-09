@@ -29,7 +29,7 @@ https://www.linkedin.com/sales/gmail/profile/viewByEmail/target@domain.com
  * Ctrl+F search “email”.
 
 
-# Telegram dedicated Search Engines 
+# Telegram
 
 >> Find posts of any user within public indexed groups 
 
