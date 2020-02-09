@@ -135,7 +135,7 @@
 |:---:|:---:|
 | intitle:- Google Docs ‘keyword’ | index public docs |
 | allinurl: drive.google.com/open?id= | index drive |
-
+| site:https://docs.google.com/forms responses + names| obtain mass email |
 
 # Dropbox
 
