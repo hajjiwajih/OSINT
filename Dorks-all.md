@@ -262,5 +262,16 @@ https://github.com/opsdisk/pagodo
 
 
 # filetypes search 
-/.env
+.env
+
+.do
+
+.jsp
+
+.php 
+
+.txt 
+
+.aspx -- restrict 
+
 add here 
