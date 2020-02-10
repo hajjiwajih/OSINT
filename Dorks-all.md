@@ -278,4 +278,14 @@ https://github.com/opsdisk/pagodo
 
 .nsf 
 
+.jar 
+
+.xml 
+
+.conf 
+
+.rdp 
+
+
+
 add here 
