@@ -23,3 +23,9 @@
 | Webmii | https://webmii.com/ |
 | Yasni | http://www.yasni.com/ |
 | Zabasearch | https://www.zabasearch.com/ |
+
+
+# Manual test 
+- Ebay 
+
+https://www.ebay.co.uk/usr/user1233 
