@@ -274,4 +274,8 @@ https://github.com/opsdisk/pagodo
 
 .aspx -- restrict 
 
+.asp 
+
+.nsf 
+
 add here 
